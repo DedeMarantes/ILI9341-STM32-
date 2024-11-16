@@ -1,0 +1,10 @@
+../Core/Src/ili9341.c:10:6:ili9341_writeCmd	16	static
+../Core/Src/ili9341.c:18:6:ili9341_writeData	16	static
+../Core/Src/ili9341.c:25:6:ili9341_writeDataBuffer	16	static
+../Core/Src/ili9341.c:32:6:ili9341_writeColor	24	static
+../Core/Src/ili9341.c:41:6:ili9341_hardReset	8	static
+../Core/Src/ili9341.c:49:6:ili9341_SetWindow	32	static
+../Core/Src/ili9341.c:68:6:ili9341_init	8	static
+../Core/Src/ili9341.c:180:6:ili9341_setOrientation	16	static
+../Core/Src/ili9341.c:209:6:ili9341_drawPixel	32	static
+../Core/Src/ili9341.c:219:6:ili9341_test	24	static
